@@ -1,0 +1,4 @@
+﻿  Ejercicios.cpp
+d:\mansilla\url\programación avanzada\tareas\tarea1_melilssamansilla_1061719\tarea1_melilssamansilla_1061719\ejercicios.cpp(37): warning C4715: 'Ejercicios::Palindromas': not all control paths return a value
+  Ejercicios.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Tarea1_MelilssaMansilla_1061719.vcxproj -> D:\Mansilla\URL\Programación Avanzada\Tareas\Tarea1_MelilssaMansilla_1061719\Debug\Tarea1_MelilssaMansilla_1061719.exe
